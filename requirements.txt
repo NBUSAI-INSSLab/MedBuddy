@@ -1,0 +1,6 @@
+flask>=3.0
+numpy>=1.26
+jieba>=0.42
+pypdf>=4.0
+paho-mqtt>=2.0
+requests>=2.31

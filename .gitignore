@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# 运行时数据（数据库 / 上传照片 / 日志）
+data/medbuddy.db
+data/medbuddy.db-wal
+data/medbuddy.db-shm
+data/ck.txt
+data/*.log
+data/uploads/
+server.log
+
+# 环境变量与密钥
+.env
+.env.*
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 工具与智能体工作目录
+.workbuddy/
